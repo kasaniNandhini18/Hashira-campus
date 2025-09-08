@@ -1,0 +1,1 @@
+This Java program reads polynomial roots from a JSON file, converts them from their specified bases to decimal, and uses Lagrange interpolation to reconstruct the polynomial. It then calculates and prints the constant term (c) of the polynomial.
